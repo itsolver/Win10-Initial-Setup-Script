@@ -7,10 +7,7 @@
 
 ### UI Tweaks ###
 HideTaskbarSearch               # ShowTaskbarSearchIcon         # ShowTaskbarSearchBox
-SetTaskbarCombineWhenFull       # SetTaskbarCombineNever        # SetTaskbarCombineAlways
-DisableShortcutInName           # EnableShortcutInName
 DisableStickyKeys
-HideTaskbarSearch
 
 ### Explorer UI Tweaks ###
 HideMusicFromThisPC             # ShowMusicInThisPC
