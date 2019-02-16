@@ -15,8 +15,8 @@ HideTaskbarSearch               # ShowTaskbarSearchIcon         # ShowTaskbarSea
 SetTaskbarCombineWhenFull       # SetTaskbarCombineNever        # SetTaskbarCombineAlways
 HideTaskbarPeopleIcon           # ShowTaskbarPeopleIcon
 # ShowTrayIcons                   # HideTrayIcons
-DisableSearchAppInStore         # EnableSearchAppInStore
-DisableNewAppPrompt             # EnableNewAppPrompt
+# DisableSearchAppInStore         # EnableSearchAppInStore
+# DisableNewAppPrompt             # EnableNewAppPrompt
 # HideRecentlyAddedApps         # ShowRecentlyAddedApps
 # HideMostUsedApps              # ShowMostUsedApps
 # SetControlPanelSmallIcons     # SetControlPanelLargeIcons     # SetControlPanelCategories
@@ -66,14 +66,6 @@ Hide3DObjectsFromThisPC         # Show3DObjectsInThisPC
 # DisableThumbnails             # EnableThumbnails
 DisableThumbnailCache           # EnableThumbnailCache
 DisableThumbsDBOnNetwork        # EnableThumbsDBOnNetwork
-
-### Application Tweaks ###
-SetPhotoViewerAssociation       # UnsetPhotoViewerAssociation
-AddPhotoViewerOpenWith          # RemovePhotoViewerOpenWith
-# UninstallPDFPrinter           # InstallPDFPrinter
-UninstallXPSPrinter             # InstallXPSPrinter
-RemoveFaxPrinter                # AddFaxPrinter
-# UninstallFaxAndScan           # InstallFaxAndScan
 
 ### Unpinning ###
 UnpinStartMenuTiles
