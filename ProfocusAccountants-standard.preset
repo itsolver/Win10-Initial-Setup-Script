@@ -19,7 +19,3 @@ DisableThumbsDBOnNetwork        # EnableThumbsDBOnNetwork
 
 ### Unpinning ###
 UnpinStartMenuTiles
-
-### Auxiliary Functions ###
-WaitForKey
-Restart
